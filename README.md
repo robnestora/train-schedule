@@ -1,1 +1,2 @@
 # train-schedule
+This is an apllication that allows you to add trains to a scheduler as well as display times of our terrible Atlanta transit system. Add trains by filling out the form and clicking the submit button Note- Marta is not responsible for anything.  But you should know that by now.
